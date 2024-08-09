@@ -27,4 +27,4 @@ Welcome to the Forward Front website repository! This repository contains the so
 - Rhythm Goyal - [GitHub](https://github.com/rhythmgoyal1)
  
 
-For more information or inquiries, contact us at info@forwardfront.org.
+For more information, contact us at info@forwardfront.org.
